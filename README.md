@@ -1,10 +1,5 @@
-# icd10-medical-coding-analytics
-healthcare standards analytics — ICD10 SNOMED LOINC RxNorm FHIR R4
-
 # ICD-10 Medical Coding Analytics — Synthea FHIR R4
-Healthcare interoperability project analyzing clinical data using 
-
-industry-standard medical coding systems across 1,180 synthetic patients.
+Healthcare interoperability project analyzing clinical data using industry-standard medical coding systems across 1,180 synthetic patients.
 
 ## Overview
 
